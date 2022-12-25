@@ -1,4 +1,4 @@
 # date-time-java
-Date-time in Java
+Date and time in Java
 
 Data e hora em Java
